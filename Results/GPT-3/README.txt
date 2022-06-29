@@ -8,4 +8,3 @@ people_descriptors.csv
 all_counts.txt
 group1_counts.txt
 group2_counts.txt
-
